@@ -31,7 +31,6 @@ public class RollManager implements Observer {
 
     protected RollManager() {
         init();
-
     }
 
     /**
